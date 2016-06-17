@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.1.0 http://maven.apache.org/xsd/settings-1.1.0.xsd" xmlns="http://maven.apache.org/SETTINGS/1.1.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <servers>
+<server>
+ <id>backend1</id>
+ <username>bde</username>
+ <password>spr4y1ngB4gg13sL3hm4np1gm3n7s</password>
+</server>
+</servers>
+</settings>
